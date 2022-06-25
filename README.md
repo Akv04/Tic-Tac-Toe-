@@ -15,12 +15,17 @@ Alpha–beta pruning is a search algorithm that seeks to decrease the number of 
 
 # Some Shots of Game 
 ![image](https://user-images.githubusercontent.com/73243672/175785656-d2302fbf-a89a-41c1-ad88-eed7f7ae8941.png)
+
                     The user turn "X"  Computer "0" 
+                    
 ![image](https://user-images.githubusercontent.com/73243672/175785704-52a3d564-906d-4a6d-88f8-456f60093770.png)
+
 
 ![image](https://user-images.githubusercontent.com/73243672/175785721-12850fee-1971-4f0d-a962-3a2b7c078a28.png)
 
+
 ![image](https://user-images.githubusercontent.com/73243672/175785728-eca76a24-5212-4b03-a64e-8ca3e5de4662.png)
+
 
 ![image](https://user-images.githubusercontent.com/73243672/175785737-7365d97e-1eba-437e-b905-d031b77daab8.png)
 
